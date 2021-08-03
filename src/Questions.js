@@ -5,12 +5,7 @@ import React, { useEffect, useState } from 'react'
 
 function Questions(props) {
  
-     let arr=[
-           {
-            
-           }
-
-     ]
+    
 
       
 
